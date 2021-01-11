@@ -1,0 +1,2 @@
+# ebin
+school management project
